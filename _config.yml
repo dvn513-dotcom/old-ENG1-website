@@ -1,0 +1,19 @@
+url: "https://eng1-c1g11.github.io"
+baseurl: ""
+theme: minima
+
+
+header_pages:
+  - index.md
+  - key-talking-points.md
+  - architecture/index.md
+  - architecture-diagrams.md
+  - architecture-previous-version-behaviour-diagram.md
+  - architecture-previous-version-structural-diagrams.md
+  - crc-card-table.md
+  - gantt-chart.md
+  - weekly-tasks.md
+  - diagram-code.md
+  - support.md
+
+
