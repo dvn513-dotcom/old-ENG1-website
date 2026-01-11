@@ -17,11 +17,11 @@ This ENG1 Assessment 1 is based on a given scenario: a single-player game where 
 
 | Document Name                  | Link                                |
 |--------------------------------|--------------------------------     |
-| **Architecture**                   | <a href="/assets/Arch1.pdf" target="_blank">View</a> |
-| **Implementation**                 | <a href="/assets/Impl1.pdf" target="_blank">View</a> |
-| **Method Selection & Planning**    | <a href="/assets/Plan1.pdf" target="_blank">View</a> |
-| **Requirements**                   | <a href="/assets/Req1.pdf" target="_blank">View</a> |
-| **Risk Assessment & Mitigation**   | <a href="/assets/Risk1.pdf" target="_blank">View</a> |
+| **Architecture**                   | <a href="/old-ENG1-website/assets/Arch1.pdf" target="_blank">View</a> |
+| **Implementation**                 | <a href="/old-ENG1-website/Impl1.pdf" target="_blank">View</a> |
+| **Method Selection & Planning**    | <a href="/old-ENG1-website/Plan1.pdf" target="_blank">View</a> |
+| **Requirements**                   | <a href="/old-ENG1-website/Req1.pdf" target="_blank">View</a> |
+| **Risk Assessment & Mitigation**   | <a href="/old-ENG1-website/Risk1.pdf" target="_blank">View</a> |
 
 ---
 
